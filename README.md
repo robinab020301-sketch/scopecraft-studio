@@ -2,7 +2,6 @@
 
 ScopeCraft Studio is a polished React + TypeScript portfolio project for freelancers who want to show product thinking, not just UI implementation. It turns a raw client brief into a scope analysis with workstreams, delivery risk, timeline, recommended stack, acceptance criteria, discovery questions, and a copy-ready Markdown proposal.
 
-![ScopeCraft Studio dashboard](screenshots/scopecraft-home.png)
 
 ## Why this project works in a portfolio
 
