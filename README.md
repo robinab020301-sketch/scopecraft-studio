@@ -52,23 +52,3 @@ npm run check
 
 This runs ESLint and a production build.
 
-## Deploy
-
-Any static host works:
-
-```bash
-npm run build
-```
-
-Upload the generated `dist` folder to Netlify, Vercel, Cloudflare Pages, or GitHub Pages. For Vercel, import the GitHub repository, keep the default Vite settings, and set the build command to `npm run build`.
-
-## Suggested GitHub description
-
-> A client-brief analysis studio for freelancers: paste a rough brief and generate scope, risks, timeline, acceptance criteria, tech stack, and a Markdown proposal.
-
-## Next portfolio upgrades
-
-- Add a small test suite for the analysis engine.
-- Replace the local heuristic analyzer with an OpenAI-powered serverless endpoint.
-- Add Supabase or Neon for multi-device project persistence.
-- Add before-and-after screenshots to this README after deploying.
